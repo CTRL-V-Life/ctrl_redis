@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/CTRL-V-Life/ctrl_redis"><img src="https://cdn.ctrl.zip/ctrl_redis_header.png" alt="CTRLRedis"></a>
+  <a href="https://github.com/CTRL-V-Life/ctrl_redis"><img src="https://cdn.ctrl.zip/github/ctrl_redis/header.png" alt="CTRLRedis"></a>
 </p>
 <h3 align="center">A FiveM resource to communicate with a Redis database using <a href="https://github.com/redis/ioredis">ioredis</a>.</h3>
 <p align="center">
